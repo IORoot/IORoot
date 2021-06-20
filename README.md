@@ -125,7 +125,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pulse--stack">wp-plugin__pulse--stack</a></td><td>Create an animated "Stack" of posts for homepage. Uses anime.js</br><sub>(2020-07-25T12:36:58Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pulse-chips">wp-plugin__pulse-chips</a></td><td>"Chips" shortcode for the parkourpulse pages.</br><sub>(2020-07-18T11:34:54Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pulse-sidemenu">wp-plugin__pulse-sidemenu</a></td><td>Pulse page-type metabox to specify a sidemenu and header flickity instance.</br><sub>(2020-07-18T10:38:00Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/IORoot">IORoot</a></td><td>null</br><sub>(2020-07-16T17:20:13Z)</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/IORoot">IORoot</a></td><td>My Github profile with a github action that automatically creates a list of my repos.</br><sub>(2020-07-16T17:20:13Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/instamancer">instamancer</a></td><td>Scrape Instagram's API with Puppeteer</br><sub>(2020-07-14T08:30:48Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__mec--revisions">wp-plugin__mec--revisions</a></td><td>Add revisions to the MEC post type</br><sub>(2020-06-27T14:03:51Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__stripe-card-css">wp-plugin__stripe-card-css</a></td><td>Stripe Debit Card SVG Icon in CSS only</br><sub>(2020-06-27T14:02:23Z)</sub></td></tr>
@@ -177,16 +177,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__footer">wp-plugin__footer</a></td><td>ACF options panel to allow you to select a specific page for your footer.</br><sub>(2019-10-28T16:37:36Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--mobile">wp-plugin__cpt--mobile</a></td><td>Create a custom post type (CPT) for mobile pages. Used on LondonParkour.com</br><sub>(2019-10-28T16:34:51Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--category-header">wp-plugin__shortcode--category-header</a></td><td>A shortcode generator & admin-panel for creating a header on thee tutorials page for LondonParkour.com</br><sub>(2019-10-28T16:29:11Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--titles">wp-plugin__vc--titles</a></td><td>Simple LondonParkour styled title/subtitle for Visual Composer. Used on LondonParkour.com</br><sub>(2019-10-28T16:24:24Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--carousel">wp-plugin__vc--carousel</a></td><td>Simple media selector carousel and switcher for Visual Composer. Used on LondonParkour.com</br><sub>(2019-10-28T16:22:10Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--links">wp-plugin__vc--links</a></td><td>Simple links with icon styling, backgrounds, colours & transitions for Visual Composer. As used on LondonParkour.com</br><sub>(2019-10-28T16:18:36Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--info">wp-plugin__vc--info</a></td><td>Information Panel for visual Composer. Used on london Parkour.com</br><sub>(2019-10-28T16:15:26Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--hero">wp-plugin__vc--hero</a></td><td>A Hero Component for Visual Composer to use on LondonParkour.com</br><sub>(2019-10-28T16:11:37Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__vc--amp">wp-plugin__vc--amp</a></td><td>AMP Components for WPBakery Visual Composer for use on LondonParkour.com</br><sub>(2019-10-28T16:04:11Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__londonparkour--v4">wp-theme__londonparkour--v4</a></td><td>Wordpress theme for LondonParkour. Uses _underscores.</br><sub>(2019-10-28T15:24:23Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode-manager">wp-plugin__shortcode-manager</a></td><td>Shortcode Manager for MovementDB.com</br><sub>(2019-03-08T20:57:10Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-theme__movementdb">wp-theme__movementdb</a></td><td>MovementDB.com theme files</br><sub>(2019-03-08T20:53:39Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/zurb__newsletter--londonparkour">zurb__newsletter--londonparkour</a></td><td>Zurb Framework Newsletter creator.</br><sub>(2018-10-11T12:47:00Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/cordova__mobile-app--londonparkour">cordova__mobile-app--londonparkour</a></td><td>null</br><sub>(2018-06-07T11:53:22Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/laravel__rekeep">laravel__rekeep</a></td><td>Rekeep project with upgrade to Laravel 5.4</br><sub>(2017-06-21T06:56:11Z)</sub></td></tr>
 </table>
