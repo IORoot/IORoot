@@ -9,7 +9,7 @@ GHUSER=IOROOT;
 
 # Get top activity.
 printf "\n## Activity\n" >> ./output.md
-printf "The current repo I'm working on is:" >> ./output.md
+printf "The current repoproject I'm working on is: " >> ./output.md
 /usr/bin/curl "https://api.github.com/users/$GHUSER/events?per_page=1" | /usr/bin/jq '.[0].repo.name' >> ./output.md
 printf "\n" >> ./output.md
 
@@ -25,8 +25,8 @@ printf "\n" >> ./output.md
 
 # Parse it with /usr/bin/jq to make an HTML table
 printf "\n## My Repository List\n" >> ./output.md
-printf "<table id=\"repos>\">" >> ./output.md
-/bin/cat ./repos.json | /usr/bin/jq --raw-output '"<tr><td><a href=\"\(.URL)\">\(.NAME)</a></td><td>\(.DESC)</td></tr>"' >> ./output.md
+printf "<table id=\"repos>\" style=\"font-size:0.8rem\">" >> ./output.md
+/bin/cat ./repos.json | /usr/bin/jq --raw-output '"<tr><td><a href=\"\(.URL)\">\(.NAME)</a></br>(\(.DATE))</td><td>\(.DESC)</td></tr>"' >> ./output.md
 printf "</table>" >> ./output.md
 
 
