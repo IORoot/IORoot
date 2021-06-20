@@ -32,6 +32,7 @@ jobs:
 
             # Install JQ
             sudo apt-get install jq
+            which jq
 
             # Run Repo collection
             ./repo_list.sh
