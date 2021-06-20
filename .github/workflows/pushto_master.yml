@@ -19,7 +19,9 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run JSON Collector & Parser
-        run: |          
+        run: |  
+            sudo apt-get install jq
+            where jq
             cd .github/workflows/scripts/
             ./repo_list.sh
 
