@@ -31,4 +31,4 @@ printf "</table>" >> ./output.md
 
 
 # Copy Results to README.md
-/bin/cat output.md >> ../../../README.md
+mv output.md ../../../README.md
