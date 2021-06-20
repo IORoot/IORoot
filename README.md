@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/deploy__ioroot"
+The current project I'm working on is: "IORoot/scripts__tools"
 
 <table><tr><td valign="top" width="33%">
 
@@ -67,18 +67,16 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/github__actions--WP-workflow-example">github__actions--WP-workflow-example</a></td><td>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</br><sub>(2020-11-30T10:44:02Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__pages--Lighthouse-Results">github__pages--Lighthouse-Results</a></td><td>Send to Netlify, from the testing github-action on STAGING.</br><sub>(2021-04-26T10:54:42Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__pages--ioroot-static">github__pages--ioroot-static</a></td><td>IORoot blog built with ghost.org</br><sub>(2019-12-23T19:36:56Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/instamancer">instamancer</a></td><td>Scrape Instagram's API with Puppeteer</br><sub>(2020-07-14T08:30:48Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer">pagespeed__lighthouse-viewer</a></td><td>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</br><sub>(2019-12-13T13:08:20Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2">prometheus__grok--apache2</a></td><td>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</br><sub>(2019-10-29T18:44:09Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/puppet__infrastructure">puppet__infrastructure</a></td><td>Puppet config for LondonParkour Infrastructure.</br><sub>(2020-12-30T11:58:57Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/scripts__cpu-load--simulator">scripts__cpu-load--simulator</a></td><td>For red-team simulated bitcoin miner</br><sub>(2020-02-27T09:16:34Z)</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/scraper__instamancer">scraper__instamancer</a></td><td>Scrape Instagram's API with Puppeteer</br><sub>(2020-07-14T08:30:48Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scripts__tools">scripts__tools</a></td><td>Library of BASH and CLI scripts</br><sub>(2020-08-12T08:58:28Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/scripts__zsh">scripts__zsh</a></td><td>My Zsh setup</br><sub>(2020-11-23T07:09:47Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/tailwind__variant--on">tailwind__variant--on</a></td><td>A tailwind variant that allows you to select every X children of Y children.</br><sub>(2021-05-30T11:08:38Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/terraform__infrastructure">terraform__infrastructure</a></td><td>Terraform infrastructure with DigitalOcean</br><sub>(2020-12-30T09:19:50Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme">typora__notion-theme</a></td><td>My customisations for Typora to look a little more like Notion.so </br><sub>(2020-08-10T09:07:03Z)</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/uploads">uploads</a></td><td>All the londonparkour.com image uploads so we can use CI</br><sub>(2021-04-12T10:18:02Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs">uploads__labs</a></td><td>The image uploads folder for labs.londonparkour.com</br><sub>(2021-06-18T16:42:40Z)</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/uploads__londonparkour">uploads__londonparkour</a></td><td>All the londonparkour.com image uploads so we can use CI</br><sub>(2021-04-12T10:18:02Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/visual-planner">visual-planner</a></td><td>Year-view wall planner for Google Calendar</br><sub>(2020-06-21T07:24:10Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__CPT--blog">wp-plugin__CPT--blog</a></td><td>Custom Post Type - Blog</br><sub>(2021-02-04T16:22:52Z)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs">wp-plugin__REST--labs</a></td><td>REST Interface to Labs.londonparkour.com</br><sub>(2021-03-04T07:52:06Z)</sub></td></tr>
