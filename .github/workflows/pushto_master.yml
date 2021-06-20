@@ -29,11 +29,11 @@ jobs:
             cd .github/workflows/scripts/
             ./repo_list.sh
 
-
+s
       # Push it onto the end of the README
       - name: Update resources
-          uses: test-room-7/action-update-file@v1
-          with:
-              file-path: ./README.md
-              commit-msg: Update README
-              github-token: ${{ secrets.GITHUB_TOKEN }}
+        uses: test-room-7/action-update-file@v1
+        with:
+            file-path: README.md
+            commit-msg: Update README
+            github-token: ${{ secrets.GITHUB_TOKEN }}
