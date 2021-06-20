@@ -26,7 +26,7 @@ printf "\n" >> ./output.md
 # Parse it with /usr/bin/jq to make an HTML table 
 printf "\n## My Repository List\n" >> ./output.md
 printf "<table id=\"repos>\" >" >> ./output.md
-/bin/cat ./repos.json | /usr/bin/jq --raw-output '"<tr><td><a href=\"\(.URL)\">\(.NAME)</a></td><td>\(.DESC)</br><span>(\(.DATE))</span></td></tr>"' >> ./output.md
+/bin/cat ./repos.json | /usr/bin/jq --raw-output '"<tr><td><a href=\"\(.URL)\">\(.NAME)</a></td><td>\(.DESC)</br><small>(\(.DATE))</small></td></tr>"' >> ./output.md
 printf "</table>" >> ./output.md
 
 
