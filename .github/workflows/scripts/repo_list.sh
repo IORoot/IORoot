@@ -10,10 +10,10 @@ GHUSER=IOROOT;
 /bin/cat ../partials/README_HEAD.md > ./output.md
 
 # Parse it with /usr/local/bin/JQ to make an HTML table
-echo "## My Repository List" >> ./output.md
-echo "<table id=\"repos>\">" >> ./output.md
-/bin/cat ./repos.json | /usr/local/bin/jq --raw-output '"<tr><td>[\(.NAME)](\(.URL))</td>\n<td>\(.DESC)</td></tr>\n"' >> ./output.md
-echo "</table>" >> ./output.md
+printf "\n## My Repository List\n" >> ./output.md
+# printf "<table id=\"repos>\">" >> ./output.md
+/bin/cat ./repos.json | /usr/local/bin/jq --raw-output '"- [\(.NAME)](\(.URL)) \(.DESC)"' >> ./output.md
+# printf "</table>" >> ./output.md
 
 # Cleanup
 rm repos.json
