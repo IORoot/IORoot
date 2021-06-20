@@ -1,0 +1,39 @@
+name: Update Profile
+
+on:
+
+  workflow_dispatch:
+
+# ┌─────────────────────────────────────┐
+# │        ENVIRONMENT VARIABLES        │
+# └─────────────────────────────────────┘
+env:
+
+
+  # ┌─────────────────────────────────────┐
+  # │          SECRETS REQUIRED           │
+  # └─────────────────────────────────────┘
+  # secrets.GITHUB_TOKEN
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: Run JSON Collector & Parser
+        run: |          
+            cd .github/workflows/scripts/
+            ./repo_list.sh
+
+
+      # Push it onto the end of the README
+      - name: Update resources
+          uses: test-room-7/action-update-file@v1
+          with:
+              file-path: ./README.md
+              commit-msg: Update README
+              github-token: ${{ secrets.GITHUB_TOKEN }}
