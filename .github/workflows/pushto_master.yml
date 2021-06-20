@@ -2,6 +2,9 @@ name: Update Profile
 
 on:
 
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
   # ┌─────────────────────────────────────┐
@@ -21,7 +24,7 @@ jobs:
       - name: Run JSON Collector & Parser
         run: |  
             sudo apt-get install jq
-            where jq
+            which jq
             cd .github/workflows/scripts/
             ./repo_list.sh
 
