@@ -27,18 +27,8 @@ jobs:
             # Move into script DIR
             cd .github/workflows/scripts/
 
-            # Add header readme onto the top.
-            /bin/cat ../partials/README_HEAD.md > ./output.md
-
-            # Install JQ
-            sudo apt-get install jq
-            which jq
-
             # Run Repo collection
             ./repo_list.sh
-
-            # Copy Results to README.md
-            /bin/cat output.md >> ../../../README.md
 
 
       # Recommit Readme
