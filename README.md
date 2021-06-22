@@ -58,16 +58,13 @@ Day-to-day technologies & services tend to be:
 
 ## My Repository List
 <table id="repos>" ><tr><td><a href="https://github.com/IORoot/IORoot"><sub>IORoot</sub></a></td><td><sub>My Github profile with a github action that automatically creates a list of my repos.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/anime-js__examples"><sub>anime-js__examples</sub></a></td><td><sub>Anime.js Library of various effects</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/archive__dead-projects"><sub>archive__dead-projects</sub></a></td><td><sub>This is where all the repos, code and projects I've written over the years that I no longer use lives.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__LABS"><sub>deploy__LABS</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__STAGING"><sub>deploy__STAGING</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__ghost-v4--heroku"><sub>deploy__ghost-v4--heroku</sub></a></td><td><sub>Deploy the latest ghost v4 on Heroku</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__ioroot"><sub>deploy__ioroot</sub></a></td><td><sub>The deploy processing to scrape the Heroku instance for a static version and then deploy to netlify.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/ffmpeg__custom-processor"><sub>ffmpeg__custom-processor</sub></a></td><td><sub>BASH Scripts to watermark, trim, resize and re-encode video ready for instagram</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__actions--WP-workflow-example"><sub>github__actions--WP-workflow-example</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__pages--Lighthouse-Results"><sub>github__pages--Lighthouse-Results</sub></a></td><td><sub>Send to Netlify, from the testing github-action on STAGING.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/github__pages--ioroot-static"><sub>github__pages--ioroot-static</sub></a></td><td><sub>IORoot blog built with ghost.org</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/puppet__infrastructure"><sub>puppet__infrastructure</sub></a></td><td><sub>Puppet config for LondonParkour Infrastructure.</sub></td></tr>
