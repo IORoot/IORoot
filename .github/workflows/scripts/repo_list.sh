@@ -23,10 +23,10 @@ printf "\n" >> ./output.md
 /bin/cat ../partials/README_CONTENT.md >> ./output.md
 
 
-# Parse it with /usr/bin/jq to make an HTML table 
+# Parse it with /usr/bin/jq to make an HTML table s
 printf "\n## My Repository List\n" >> ./output.md
 printf "<table id=\"repos>\" >" >> ./output.md
-/bin/cat ./repos.json | /usr/bin/jq -s "sort_by(.NAME)" | /usr/bin/jq --raw-output '.[] | "<tr><td><a href=\"\(.URL)\">\(.NAME)</a></td><td>\(.DESC)</br><sub>(\(.DATE))</sub></td></tr>"' >> ./output.md
+/bin/cat ./repos.json | /usr/bin/jq -s "sort_by(.NAME)" | /usr/bin/jq --raw-output '.[] | "<tr><td><a href=\"\(.URL)\"><sub>\(.NAME)</sub></a></td><td><sub>\(.DESC)</sub></td></tr>"' >> ./output.md
 printf "</table>" >> ./output.md
 
 
