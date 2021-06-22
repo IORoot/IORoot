@@ -5,8 +5,12 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch:
 
+  schedule:
+    - cron:  '30 7,17 * * *'
+    
+  workflow_dispatch:
+  
   # ┌─────────────────────────────────────┐
   # │          SECRETS REQUIRED           │
   # └─────────────────────────────────────┘
