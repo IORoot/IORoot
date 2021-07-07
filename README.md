@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/scripts__tools"
+The current project I'm working on is: "alrra/dotfiles"
 
 <table><tr><td valign="top" width="33%">
 
