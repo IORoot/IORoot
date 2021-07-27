@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/deploy__STAGING"
+The current project I'm working on is: "IORoot/puppet__infrastructure"
 
 <table><tr><td valign="top" width="33%">
 
