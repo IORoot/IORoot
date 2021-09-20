@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/deploy__PULSE"
+The current project I'm working on is: "n8n-io/n8n"
 
 <table><tr><td valign="top" width="33%">
 
