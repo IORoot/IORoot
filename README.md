@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-plugin__page-builder"
+The current project I'm working on is: "IORoot/deploy__LABS"
 
 <table><tr><td valign="top" width="33%">
 
@@ -112,6 +112,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--gCAL"><sub>wp-plugin__oauth--gCAL</sub></a></td><td><sub>ACF oAuth for google Calendar</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth-demo"><sub>wp-plugin__oauth-demo</sub></a></td><td><sub>Demo of how to get google OAUTH working in wordpress.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder"><sub>wp-plugin__page-builder</sub></a></td><td><sub>Custom Page Builder to replace WPBakery</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder--epic-slider"><sub>wp-plugin__page-builder--epic-slider</sub></a></td><td><sub>EpicSlider for Wordpress PageBuilder</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder--flickity"><sub>wp-plugin__page-builder--flickity</sub></a></td><td><sub>Metafizzy Flickity slider module for page builder.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder--hero"><sub>wp-plugin__page-builder--hero</sub></a></td><td><sub>Random Hero generator for page builder</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder--isotope"><sub>wp-plugin__page-builder--isotope</sub></a></td><td><sub>Metafizzy Isotope grid module for page builder</sub></td></tr>
