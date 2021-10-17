@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/deploy__LABS"
+The current project I'm working on is: "jschmid1/gopro_as_webcam_on_linux"
 
 <table><tr><td valign="top" width="33%">
 
