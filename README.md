@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-plugin__page-builder"
+The current project I'm working on is: "IORoot/wp-plugin__page-builder--epic-slider"
 
 <table><tr><td valign="top" width="33%">
 
