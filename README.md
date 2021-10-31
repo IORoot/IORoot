@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-plugin__stripe-payments"
+The current project I'm working on is: "IORoot/deploy__STAGING"
 
 <table><tr><td valign="top" width="33%">
 
