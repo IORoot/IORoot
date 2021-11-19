@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/latestversions"
+The current project I'm working on is: "IORoot/wp-plugin__cpt--syllabus"
 
 <table><tr><td valign="top" width="33%">
 
@@ -103,6 +103,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--events"><sub>wp-plugin__cpt--events</sub></a></td><td><sub>Events CPT to add synced gCal events to.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--pulse"><sub>wp-plugin__cpt--pulse</sub></a></td><td><sub>Custom Post Type for Pulse</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--support"><sub>wp-plugin__cpt--support</sub></a></td><td><sub>CPT Support</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--syllabus"><sub>wp-plugin__cpt--syllabus</sub></a></td><td><sub>Custom Post-Type for the syllabus pages.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--tutorial"><sub>wp-plugin__cpt--tutorial</sub></a></td><td><sub>Custom Post Type - Tutorials</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__footer"><sub>wp-plugin__footer</sub></a></td><td><sub>ACF options panel to allow you to select a specific page for your footer.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__gcal-sync"><sub>wp-plugin__gcal-sync</sub></a></td><td><sub>Google Calendar to Wordpress sync</sub></td></tr>
