@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-theme__syllabus-v1"
+The current project I'm working on is: "IORoot/wp-plugin__sidebar-menu"
 
 <table><tr><td valign="top" width="33%">
 
@@ -133,7 +133,8 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--modals"><sub>wp-plugin__shortcode--modals</sub></a></td><td><sub>Creates simple CSS-Only modals</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--picture"><sub>wp-plugin__shortcode--picture</sub></a></td><td><sub>Shortcode for creating a responsive picture tag for images.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--random-image-url"><sub>wp-plugin__shortcode--random-image-url</sub></a></td><td><sub>Obtain a random image URL based off a supplied list of image IDs</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--tree"><sub>wp-plugin__shortcode--tree</sub></a></td><td><sub>Creates a 3-level hierarchical structure based off categories and posts.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--tree"><sub>wp-plugin__shortcode--tree</sub></a></td><td><sub>ParkourLabs - Builds a 3-level hierarchical structure based off categories and posts.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__sidebar-menu"><sub>wp-plugin__sidebar-menu</sub></a></td><td><sub>Wordpress sidebar menu from taxonomy</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__stripe-payments"><sub>wp-plugin__stripe-payments</sub></a></td><td><sub>Stripe payment customisations</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__taxonomy--extra"><sub>wp-plugin__taxonomy--extra</sub></a></td><td><sub>Extra ACF fields for taxonomies</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__theme--custom-structure"><sub>wp-plugin__theme--custom-structure</sub></a></td><td><sub>Custom Theme Structuring for Wordpress</sub></td></tr>
