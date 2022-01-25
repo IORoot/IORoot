@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-pluging__menu--code-inject"
+The current project I'm working on is: "IORoot/wp-plugin__sidebar-menu"
 
 <table><tr><td valign="top" width="33%">
 
