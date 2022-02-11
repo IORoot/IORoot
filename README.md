@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "Mebus/cupp"
+The current project I'm working on is: "IORoot/wp-theme__syllabus-v1"
 
 <table><tr><td valign="top" width="33%">
 
