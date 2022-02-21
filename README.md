@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/wp-pluging__menu--code-inject"
+The current project I'm working on is: "IORoot/wp-plugin__memberpress--login-logout"
 
 <table><tr><td valign="top" width="33%">
 
@@ -109,6 +109,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__footer"><sub>wp-plugin__footer</sub></a></td><td><sub>ACF options panel to allow you to select a specific page for your footer.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__gcal-sync"><sub>wp-plugin__gcal-sync</sub></a></td><td><sub>Google Calendar to Wordpress sync</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__generative-images"><sub>wp-plugin__generative-images</sub></a></td><td><sub>Generate SVG images based on featured images.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__memberpress--login-logout"><sub>wp-plugin__memberpress--login-logout</sub></a></td><td><sub>Simple button for logging in and logging out of the wordpress site.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__menus--responsive"><sub>wp-plugin__menus--responsive</sub></a></td><td><sub>Changes a wordpress dynamic sidebar menu into a responsive dropdown select menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--GMB"><sub>wp-plugin__oauth--GMB</sub></a></td><td><sub>Google-My-Business Plugin implementation </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--YouTube"><sub>wp-plugin__oauth--YouTube</sub></a></td><td><sub>oAuth implementation to separate away from Universal Exporter Plugin</sub></td></tr>
