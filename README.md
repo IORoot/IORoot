@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/scripts__tools"
+The current project I'm working on is: "IORoot/gatsby-starter-default"
 
 <table><tr><td valign="top" width="33%">
 
@@ -76,7 +76,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/n8n__social"><sub>n8n__social</sub></a></td><td><sub>null</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/next-netlify-starter"><sub>next-netlify-starter</sub></a></td><td><sub>null</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/run__lighthouse"><sub>run__lighthouse</sub></a></td><td><sub>Runs Lighthouse against URLs - Saves to server.</sub></td></tr>
