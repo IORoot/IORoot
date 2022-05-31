@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "sherlock-project/sherlock"
+The current project I'm working on is: "IORoot/gatsby-starter-default"
 
 <table><tr><td valign="top" width="33%">
 
