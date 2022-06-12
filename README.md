@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/SVGencode"
+The current project I'm working on is: "IORoot/gatsby-starter-default"
 
 <table><tr><td valign="top" width="33%">
 
@@ -58,16 +58,14 @@ Day-to-day technologies & services tend to be:
 
 ## My Repository List
 <table id="repos>" ><tr><td><a href="https://github.com/IORoot/IORoot"><sub>IORoot</sub></a></td><td><sub>My Github profile with a github action that automatically creates a list of my repos.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/SVGencode"><sub>SVGencode</sub></a></td><td><sub>Convert SVGs to various other formats</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/IORoot.com"><sub>IORoot.com</sub></a></td><td><sub>Gatsby Website for IORoot.com</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/SVGencode"><sub>SVGencode</sub></a></td><td><sub>A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/action__puppeteer--media"><sub>action__puppeteer--media</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/archive__dead-projects"><sub>archive__dead-projects</sub></a></td><td><sub>This is where all the repos, code and projects I've written over the years that I no longer use lives.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/cupp"><sub>cupp</sub></a></td><td><sub>Common User Passwords Profiler (CUPP)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__EXPORTER"><sub>deploy__EXPORTER</sub></a></td><td><sub>Exporter Project for LondonParkour</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__LABS"><sub>deploy__LABS</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__PULSE"><sub>deploy__PULSE</sub></a></td><td><sub>PULSE website deploy through CI</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__STAGING"><sub>deploy__STAGING</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/deploy__ghost-v4--heroku"><sub>deploy__ghost-v4--heroku</sub></a></td><td><sub>Deploy the latest ghost v4 on Heroku</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/deploy__ioroot"><sub>deploy__ioroot</sub></a></td><td><sub>The deploy processing to scrape the Heroku instance for a static version and then deploy to netlify.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/examples__google-my-business"><sub>examples__google-my-business</sub></a></td><td><sub>Example PHP scripts for Google My Business API v4.9</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/gatsby-git-content"><sub>gatsby-git-content</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/gatsby-starter-default"><sub>gatsby-starter-default</sub></a></td><td><sub>null</sub></td></tr>
