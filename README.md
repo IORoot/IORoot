@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/Obsidian-Monokai"
+The current project I'm working on is: "obsidianmd/obsidian-releases"
 
 <table><tr><td valign="top" width="33%">
 
