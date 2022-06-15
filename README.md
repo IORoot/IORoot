@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "obsidianmd/obsidian-releases"
+The current project I'm working on is: "IORoot/poc"
 
 <table><tr><td valign="top" width="33%">
 
@@ -79,6 +79,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/n8n__social"><sub>n8n__social</sub></a></td><td><sub>null</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/obsidian-releases"><sub>obsidian-releases</sub></a></td><td><sub>Community plugins list, theme list, and releases of Obsidian.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/poc"><sub>poc</sub></a></td><td><sub>POC CVE</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/run__lighthouse"><sub>run__lighthouse</sub></a></td><td><sub>Runs Lighthouse against URLs - Saves to server.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
