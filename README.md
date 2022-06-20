@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/IORoot.com"
+The current project I'm working on is: "dylanaraps/neofetch"
 
 <table><tr><td valign="top" width="33%">
 
@@ -77,6 +77,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/n8n__social"><sub>n8n__social</sub></a></td><td><sub>null</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/neofetch"><sub>neofetch</sub></a></td><td><sub>🖼️  A command-line system information tool written in bash 3.2+</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/obsidian-releases"><sub>obsidian-releases</sub></a></td><td><sub>Community plugins list, theme list, and releases of Obsidian.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/poc"><sub>poc</sub></a></td><td><sub>POC CVE</sub></td></tr>
