@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/scripts__tools"
+The current project I'm working on is: "IORoot/blog"
 
 <table><tr><td valign="top" width="33%">
 
@@ -63,12 +63,12 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/SVGencode"><sub>SVGencode</sub></a></td><td><sub>A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/action__puppeteer--media"><sub>action__puppeteer--media</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/archive__dead-projects"><sub>archive__dead-projects</sub></a></td><td><sub>This is where all the repos, code and projects I've written over the years that I no longer use lives.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/blog"><sub>blog</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__EXPORTER"><sub>deploy__EXPORTER</sub></a></td><td><sub>Exporter Project for LondonParkour</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__LABS"><sub>deploy__LABS</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__PULSE"><sub>deploy__PULSE</sub></a></td><td><sub>PULSE website deploy through CI</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__STAGING"><sub>deploy__STAGING</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/examples__google-my-business"><sub>examples__google-my-business</sub></a></td><td><sub>Example PHP scripts for Google My Business API v4.9</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/gatsby-git-content"><sub>gatsby-git-content</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/gatsby-latest-versions"><sub>gatsby-latest-versions</sub></a></td><td><sub>null</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__actions--WP-workflow-example"><sub>github__actions--WP-workflow-example</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__pages--Lighthouse-Results"><sub>github__pages--Lighthouse-Results</sub></a></td><td><sub>Send to Netlify, from the testing github-action on STAGING.</sub></td></tr>
