@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/blog"
+The current project I'm working on is: "IORoot/macos__colorpicker--palettes"
 
 <table><tr><td valign="top" width="33%">
 
@@ -58,7 +58,7 @@ Day-to-day technologies & services tend to be:
 
 ## My Repository List
 <table id="repos>" ><tr><td><a href="https://github.com/IORoot/IORoot"><sub>IORoot</sub></a></td><td><sub>My Github profile with a github action that automatically creates a list of my repos.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/IORoot.com"><sub>IORoot.com</sub></a></td><td><sub>Gatsby Website for IORoot.com</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/IORoot-Website"><sub>IORoot-Website</sub></a></td><td><sub>Gatsby Website for IORoot.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/Obsidian-Monokai"><sub>Obsidian-Monokai</sub></a></td><td><sub>A (very) clean and minimal Monokai code-colours based Obsidian theme.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/SVGencode"><sub>SVGencode</sub></a></td><td><sub>A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/action__puppeteer--media"><sub>action__puppeteer--media</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
@@ -76,11 +76,9 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/n8n__social"><sub>n8n__social</sub></a></td><td><sub>null</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/neofetch"><sub>neofetch</sub></a></td><td><sub>🖼️  A command-line system information tool written in bash 3.2+</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/obsidian-releases"><sub>obsidian-releases</sub></a></td><td><sub>Community plugins list, theme list, and releases of Obsidian.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/poc"><sub>poc</sub></a></td><td><sub>POC CVE</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/run__lighthouse"><sub>run__lighthouse</sub></a></td><td><sub>Runs Lighthouse against URLs - Saves to server.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
