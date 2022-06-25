@@ -72,8 +72,8 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/github__action--scrapesite-netlify"><sub>github__action--scrapesite-netlify</sub></a></td><td><sub>Github Action to scrape a website, make a static version and push to netlify.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__actions--WP-workflow-example"><sub>github__actions--WP-workflow-example</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__pages--Lighthouse-Results"><sub>github__pages--Lighthouse-Results</sub></a></td><td><sub>Send to Netlify, from the testing github-action on STAGING.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/latestversions-scraper"><sub>latestversions-scraper</sub></a></td><td><sub>null</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/latestversions-website"><sub>latestversions-website</sub></a></td><td><sub>null</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/latestversions-scraper"><sub>latestversions-scraper</sub></a></td><td><sub>LatestVersions Scraper</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/latestversions-website"><sub>latestversions-website</sub></a></td><td><sub>LatestVersions Website</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
@@ -129,8 +129,8 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__page-builder--yt-lite"><sub>wp-plugin__page-builder--yt-lite</sub></a></td><td><sub>Adds YouTube Lite into the Page Builder</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pipeline--exporter"><sub>wp-plugin__pipeline--exporter</sub></a></td><td><sub>Pipeline Project - Exporter</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pipeline--processor"><sub>wp-plugin__pipeline--processor</sub></a></td><td><sub>Pipeline Processor to combine records. Part of the Pipeline Project</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse--stack"><sub>wp-plugin__pulse--stack</sub></a></td><td><sub>Create an animated "Stack" of posts for homepage. Uses anime.js</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse-chips"><sub>wp-plugin__pulse-chips</sub></a></td><td><sub>"Chips" shortcode for the parkourpulse pages.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse--stack"><sub>wp-plugin__pulse--stack</sub></a></td><td><sub>Create an animated Stack of posts for homepage. Uses anime.js</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse-chips"><sub>wp-plugin__pulse-chips</sub></a></td><td><sub>Chips shortcode for the parkourpulse pages.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__regex-posts"><sub>wp-plugin__regex-posts</sub></a></td><td><sub>Apply a regex to any post type and field. Test, Single ID or Bulk all posts of type.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__rest--isometric"><sub>wp-plugin__rest--isometric</sub></a></td><td><sub>Generic REST request with a view output of images in an isometic format.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--breadcrumbs"><sub>wp-plugin__shortcode--breadcrumbs</sub></a></td><td><sub>Adds breadcrumbs with CSS Accordion drop-downs.</sub></td></tr>
