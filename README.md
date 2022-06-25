@@ -64,14 +64,12 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/action__puppeteer--media"><sub>action__puppeteer--media</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/archive__dead-projects"><sub>archive__dead-projects</sub></a></td><td><sub>This is where all the repos, code and projects I've written over the years that I no longer use lives.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/blog"><sub>blog</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/deploy__EXPORTER"><sub>deploy__EXPORTER</sub></a></td><td><sub>Exporter Project for LondonParkour</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__LABS"><sub>deploy__LABS</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__PULSE"><sub>deploy__PULSE</sub></a></td><td><sub>PULSE website deploy through CI</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/deploy__STAGING"><sub>deploy__STAGING</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/examples__google-my-business"><sub>examples__google-my-business</sub></a></td><td><sub>Example PHP scripts for Google My Business API v4.9</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__action--scrapesite-netlify"><sub>github__action--scrapesite-netlify</sub></a></td><td><sub>Github Action to scrape a website, make a static version and push to netlify.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github__actions--WP-workflow-example"><sub>github__actions--WP-workflow-example</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/github__pages--Lighthouse-Results"><sub>github__pages--Lighthouse-Results</sub></a></td><td><sub>Send to Netlify, from the testing github-action on STAGING.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/latestversions-scraper"><sub>latestversions-scraper</sub></a></td><td><sub>LatestVersions Scraper</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/latestversions-website"><sub>latestversions-website</sub></a></td><td><sub>LatestVersions Website</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
@@ -152,5 +150,4 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-theme__londonparkour--v5"><sub>wp-theme__londonparkour--v5</sub></a></td><td><sub>Version5 Of LondonParkour</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__pulse"><sub>wp-theme__pulse</sub></a></td><td><sub>ParkourPulse Theme.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__syllabus-v1"><sub>wp-theme__syllabus-v1</sub></a></td><td><sub>Syllabus website theme</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/zurb__newsletter--londonparkour"><sub>zurb__newsletter--londonparkour</sub></a></td><td><sub>Zurb Framework Newsletter creator.</sub></td></tr>
 </table>
