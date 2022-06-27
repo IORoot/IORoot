@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/blog"
+The current project I'm working on is: "IORoot/wp-plugin__andyp-plugins"
 
 <table><tr><td valign="top" width="33%">
 
@@ -90,12 +90,12 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/workflow__puppeteer--demo"><sub>workflow__puppeteer--demo</sub></a></td><td><sub>Run Puppeteer scripts through github actions</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/workflow__puppeteer--later.com"><sub>workflow__puppeteer--later.com</sub></a></td><td><sub>Run a puppeteer script to schedule a video on later.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs"><sub>wp-plugin__REST--labs</sub></a></td><td><sub>REST Interface to Labs.londonparkour.com</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__acf--codemirror"><sub>wp-plugin__acf--codemirror</sub></a></td><td><sub>Embed codemirror textarea fields for ACF</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__acf--codemirror"><sub>wp-plugin__acf--codemirror</sub></a></td><td><sub>Add CodeMirror textarea fields for Wordpress ACF</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf--inline-datetime-field"><sub>wp-plugin__acf--inline-datetime-field</sub></a></td><td><sub>Renders the datetime picker inline rather than a popup.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf-options-import-export"><sub>wp-plugin__acf-options-import-export</sub></a></td><td><sub>Allows you to import and export ACF options directly from the database. Caution, this is very dangerous!</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__admin--remove-comments"><sub>wp-plugin__admin--remove-comments</sub></a></td><td><sub>Removes the Wordpress 'Comments' menu.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__admin-themes"><sub>wp-plugin__admin-themes</sub></a></td><td><sub>Switch themes depending on website</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__admin-widgets"><sub>wp-plugin__admin-widgets</sub></a></td><td><sub>Create admin widgets for the wordpress dashboard. Enables you to embed any code (including iframes) for Google Data studio embeds.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__admin-widgets"><sub>wp-plugin__admin-widgets</sub></a></td><td><sub>Create admin widgets for the wordpress dashboard. Enables you to embed any code including iframes.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__advanced-forms--replyto"><sub>wp-plugin__advanced-forms--replyto</sub></a></td><td><sub>Add a 'reply-to' header into the advanced-forms (hookturn.io) plugin.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__andyp-plugins"><sub>wp-plugin__andyp-plugins</sub></a></td><td><sub>AndyP Plugin Manager</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__api-scraper"><sub>wp-plugin__api-scraper</sub></a></td><td><sub>API Scraper Wordpress plugin that will allow you to get data from YouTube and output the results as you like.</sub></td></tr>
