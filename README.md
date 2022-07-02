@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/macos__colorpicker--palettes"
+The current project I'm working on is: "IORoot/blog"
 
 <table><tr><td valign="top" width="33%">
 
