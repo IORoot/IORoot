@@ -1,6 +1,6 @@
 # Howdy! 👋
 ## Activity
-The current project I'm working on is: "IORoot/blog"
+The current project I'm working on is: "IORoot/wp-plugin__advanced-forms--replyto"
 
 <table><tr><td valign="top" width="33%">
 
@@ -99,7 +99,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__advanced-forms--replyto"><sub>wp-plugin__advanced-forms--replyto</sub></a></td><td><sub>Add a 'reply-to' header into the advanced-forms (hookturn.io) plugin.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__andyp-plugins"><sub>wp-plugin__andyp-plugins</sub></a></td><td><sub>AndyP Plugin Manager</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__api-scraper"><sub>wp-plugin__api-scraper</sub></a></td><td><sub>API Scraper Wordpress plugin that will allow you to get data from YouTube and output the results as you like.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__auto-menu"><sub>wp-plugin__auto-menu</sub></a></td><td><sub>Adds posts of a selected category to a menu automatically.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--amp"><sub>wp-plugin__cpt--amp</sub></a></td><td><sub>AMP Pages</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--blog"><sub>wp-plugin__cpt--blog</sub></a></td><td><sub>Custom Post Type - Blog</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__cpt--demonstration"><sub>wp-plugin__cpt--demonstration</sub></a></td><td><sub>Custom Post Type - Demonstration</sub></td></tr>
