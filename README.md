@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/archive__dead-projects"
+The current project I'm working on is: "IORoot/blog"
 
 <table><tr><td valign="top" width="33%">
 
@@ -77,6 +77,8 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--londonparkour"><sub>github-action__deploy--londonparkour</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--parkourlabs"><sub>github-action__deploy--parkourlabs</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--parkourpulse"><sub>github-action__deploy--parkourpulse</sub></a></td><td><sub>PULSE website deploy through CI</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/github-action__puppeteer--demo"><sub>github-action__puppeteer--demo</sub></a></td><td><sub>Run Puppeteer scripts through github actions</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/github-action__puppeteer--later.com"><sub>github-action__puppeteer--later.com</sub></a></td><td><sub>Run a puppeteer script to schedule a video on later.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__puppeteer--video"><sub>github-action__puppeteer--video</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__scraper--to-netlify"><sub>github-action__scraper--to-netlify</sub></a></td><td><sub>Github Action to scrape a website, make a static version and push to netlify.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__wordpress--phpunit"><sub>github-action__wordpress--phpunit</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
@@ -85,7 +87,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/obsidian-releases"><sub>obsidian-releases</sub></a></td><td><sub>Community plugins list, theme list, and releases of Obsidian.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/motd"><sub>motd</sub></a></td><td><sub>Message of the Day</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
@@ -94,8 +96,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs"><sub>uploads__labs</sub></a></td><td><sub>The image uploads folder for labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__londonparkour"><sub>uploads__londonparkour</sub></a></td><td><sub>All the londonparkour.com image uploads so we can use CI</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/workflow__puppeteer--demo"><sub>workflow__puppeteer--demo</sub></a></td><td><sub>Run Puppeteer scripts through github actions</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/workflow__puppeteer--later.com"><sub>workflow__puppeteer--later.com</sub></a></td><td><sub>Run a puppeteer script to schedule a video on later.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs"><sub>wp-plugin__REST--labs</sub></a></td><td><sub>REST Interface to Labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf--codemirror"><sub>wp-plugin__acf--codemirror</sub></a></td><td><sub>Add CodeMirror textarea fields for Wordpress ACF</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf--inline-datetime-field"><sub>wp-plugin__acf--inline-datetime-field</sub></a></td><td><sub>Renders the datetime picker inline rather than a popup.</sub></td></tr>
