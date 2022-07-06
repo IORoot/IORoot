@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/IORoot"
+The current project I'm working on is: "IORoot/archive__dead-projects"
 
 <table><tr><td valign="top" width="33%">
 
@@ -85,7 +85,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--palettes"><sub>macos__colorpicker--palettes</sub></a></td><td><sub>🌈 MacOS Color Palettes in Apple .CLR and .JSON formats. TailwindCSS, MaterialDesign, Bootstrap, W3C, Primer to Copic, Pantone and Crayola.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__json2clr--convert"><sub>macos__json2clr--convert</sub></a></td><td><sub>🌈 Colour Palette .JSON to Apple .CLR converter.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/neofetch"><sub>neofetch</sub></a></td><td><sub>🖼️  A command-line system information tool written in bash 3.2+</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/obsidian-releases"><sub>obsidian-releases</sub></a></td><td><sub>Community plugins list, theme list, and releases of Obsidian.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/pagespeed__lighthouse-viewer"><sub>pagespeed__lighthouse-viewer</sub></a></td><td><sub>Custom Lighthouse-viewer to read a Pagespeed Insights API JSON response file specified on URL path</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
@@ -95,7 +94,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs"><sub>uploads__labs</sub></a></td><td><sub>The image uploads folder for labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__londonparkour"><sub>uploads__londonparkour</sub></a></td><td><sub>All the londonparkour.com image uploads so we can use CI</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/visual-planner"><sub>visual-planner</sub></a></td><td><sub>Year-view wall planner for Google Calendar</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/workflow__puppeteer--demo"><sub>workflow__puppeteer--demo</sub></a></td><td><sub>Run Puppeteer scripts through github actions</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/workflow__puppeteer--later.com"><sub>workflow__puppeteer--later.com</sub></a></td><td><sub>Run a puppeteer script to schedule a video on later.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs"><sub>wp-plugin__REST--labs</sub></a></td><td><sub>REST Interface to Labs.londonparkour.com</sub></td></tr>
