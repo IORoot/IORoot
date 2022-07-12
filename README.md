@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/blog"
+The current project I'm working on is: "IORoot/wp-plugin__ytdl"
 
 <table><tr><td valign="top" width="33%">
 
@@ -97,7 +97,9 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs"><sub>uploads__labs</sub></a></td><td><sub>The image uploads folder for labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__londonparkour"><sub>uploads__londonparkour</sub></a></td><td><sub>All the londonparkour.com image uploads so we can use CI</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__REST--isometric"><sub>wp-plugin__REST--isometric</sub></a></td><td><sub>Generic REST request with a view output of images in an isometic format.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs"><sub>wp-plugin__REST--labs</sub></a></td><td><sub>REST Interface to Labs.londonparkour.com</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__REST--pulse"><sub>wp-plugin__REST--pulse</sub></a></td><td><sub>Create an animated Stack of posts for homepage. Uses anime.js</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf--codemirror"><sub>wp-plugin__acf--codemirror</sub></a></td><td><sub>Add CodeMirror textarea fields for Wordpress ACF</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf--inline-datetime-field"><sub>wp-plugin__acf--inline-datetime-field</sub></a></td><td><sub>Renders the datetime picker inline rather than a popup.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__acf-options-import-export"><sub>wp-plugin__acf-options-import-export</sub></a></td><td><sub>Allows you to import and export ACF options directly from the database. Caution, this is very dangerous!</sub></td></tr>
@@ -117,6 +119,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__footer"><sub>wp-plugin__footer</sub></a></td><td><sub>ACF options panel to allow you to select a specific page for your footer.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__gcal-sync"><sub>wp-plugin__gcal-sync</sub></a></td><td><sub>Google Calendar to Wordpress sync</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__memberpress--login-logout"><sub>wp-plugin__memberpress--login-logout</sub></a></td><td><sub>Simple button for logging in and logging out of the wordpress site.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__menu-chips"><sub>wp-plugin__menu-chips</sub></a></td><td><sub>Chips shortcode for the parkourpulse pages.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__menus--responsive"><sub>wp-plugin__menus--responsive</sub></a></td><td><sub>Changes a wordpress dynamic sidebar menu into a responsive dropdown select menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--GMB"><sub>wp-plugin__oauth--GMB</sub></a></td><td><sub>Google-My-Business Plugin implementation </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--YouTube"><sub>wp-plugin__oauth--YouTube</sub></a></td><td><sub>oAuth implementation to separate away from Universal Exporter Plugin</sub></td></tr>
@@ -134,10 +137,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pipeline--exporter"><sub>wp-plugin__pipeline--exporter</sub></a></td><td><sub>Pipeline Project - Exporter</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pipeline--generative-images"><sub>wp-plugin__pipeline--generative-images</sub></a></td><td><sub>Generate SVG images based on featured images.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__pipeline--processor"><sub>wp-plugin__pipeline--processor</sub></a></td><td><sub>Pipeline Processor to combine records. Part of the Pipeline Project</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse--stack"><sub>wp-plugin__pulse--stack</sub></a></td><td><sub>Create an animated Stack of posts for homepage. Uses anime.js</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__pulse-chips"><sub>wp-plugin__pulse-chips</sub></a></td><td><sub>Chips shortcode for the parkourpulse pages.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__regex-posts"><sub>wp-plugin__regex-posts</sub></a></td><td><sub>Apply a regex to any post type and field. Test, Single ID or Bulk all posts of type.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__rest--isometric"><sub>wp-plugin__rest--isometric</sub></a></td><td><sub>Generic REST request with a view output of images in an isometic format.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__regexer"><sub>wp-plugin__regexer</sub></a></td><td><sub>Apply a regex to any post type and field. Test, Single ID or Bulk all posts of type.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--breadcrumbs"><sub>wp-plugin__shortcode--breadcrumbs</sub></a></td><td><sub>Adds breadcrumbs with CSS Accordion drop-downs.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--facts"><sub>wp-plugin__shortcode--facts</sub></a></td><td><sub>Various small snippet facts on various entities within wordpress</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--fetch"><sub>wp-plugin__shortcode--fetch</sub></a></td><td><sub>Allows you to obtain posts from wordpress and supply a template to apply to all retrieved results.</sub></td></tr>
@@ -145,7 +145,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--picture"><sub>wp-plugin__shortcode--picture</sub></a></td><td><sub>Shortcode for creating a responsive picture tag for images.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--random-image-url"><sub>wp-plugin__shortcode--random-image-url</sub></a></td><td><sub>Obtain a random image URL based off a supplied list of image IDs</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__shortcode--tree"><sub>wp-plugin__shortcode--tree</sub></a></td><td><sub>ParkourLabs - Builds a 3-level hierarchical structure based off categories and posts.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-plugin__sidebar-menu"><sub>wp-plugin__sidebar-menu</sub></a></td><td><sub>Wordpress sidebar menu from taxonomy</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__sidebar-creator"><sub>wp-plugin__sidebar-creator</sub></a></td><td><sub>Wordpress sidebar menu from taxonomy</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__stripe-payments"><sub>wp-plugin__stripe-payments</sub></a></td><td><sub>Stripe payment customisations</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__taxonomy--extra"><sub>wp-plugin__taxonomy--extra</sub></a></td><td><sub>Extra ACF fields for taxonomies</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__theme--custom-structure"><sub>wp-plugin__theme--custom-structure</sub></a></td><td><sub>Custom Theme Structuring for Wordpress</sub></td></tr>
