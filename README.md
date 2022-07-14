@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/motd"
+The current project I'm working on is: "IORoot/blog"
 
 <table><tr><td valign="top" width="33%">
 
@@ -120,6 +120,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__gcal-sync"><sub>wp-plugin__gcal-sync</sub></a></td><td><sub>Google Calendar to Wordpress sync</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__memberpress--login-logout"><sub>wp-plugin__memberpress--login-logout</sub></a></td><td><sub>Simple button for logging in and logging out of the wordpress site.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__menu-chips"><sub>wp-plugin__menu-chips</sub></a></td><td><sub>Chips shortcode for the parkourpulse pages.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/wp-plugin__menus--extended"><sub>wp-plugin__menus--extended</sub></a></td><td><sub>Inject any HTML code into the wordpress menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__menus--responsive"><sub>wp-plugin__menus--responsive</sub></a></td><td><sub>Changes a wordpress dynamic sidebar menu into a responsive dropdown select menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--GMB"><sub>wp-plugin__oauth--GMB</sub></a></td><td><sub>Google-My-Business Plugin implementation </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__oauth--YouTube"><sub>wp-plugin__oauth--YouTube</sub></a></td><td><sub>oAuth implementation to separate away from Universal Exporter Plugin</sub></td></tr>
@@ -151,7 +152,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-plugin__theme--custom-structure"><sub>wp-plugin__theme--custom-structure</sub></a></td><td><sub>Custom Theme Structuring for Wordpress</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__thumbnail-folders"><sub>wp-plugin__thumbnail-folders</sub></a></td><td><sub>Creates subdirectories in the uploads folder for each thumbnail size</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__ytdl"><sub>wp-plugin__ytdl</sub></a></td><td><sub>Youtube downloader for WordPress.</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/wp-pluging__menu--code-inject"><sub>wp-pluging__menu--code-inject</sub></a></td><td><sub>Inject any HTML code into the wordpress menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__labs-londonparkour"><sub>wp-theme__labs-londonparkour</sub></a></td><td><sub>The LABS website theme. Labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__londonparkour--v4"><sub>wp-theme__londonparkour--v4</sub></a></td><td><sub>Wordpress theme for LondonParkour. Uses _underscores.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__londonparkour--v5"><sub>wp-theme__londonparkour--v5</sub></a></td><td><sub>Version5 Of LondonParkour</sub></td></tr>
