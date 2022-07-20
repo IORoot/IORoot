@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/motd"
+The current project I'm working on is: "IORoot/htmltree"
 
 <table><tr><td valign="top" width="33%">
 
@@ -83,6 +83,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/github-action__puppeteer--video"><sub>github-action__puppeteer--video</sub></a></td><td><sub>Github Action to run puppeteer with media/video capabilities. (Default downloaded chrome cannot use video files)</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__scraper--to-netlify"><sub>github-action__scraper--to-netlify</sub></a></td><td><sub>Github Action to scrape a website, make a static version and push to netlify.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__wordpress--phpunit"><sub>github-action__wordpress--phpunit</sub></a></td><td><sub>A Github Action workflow to run WordPress, PHPUnit, MySQL and pull in a second private repo</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/htmltree"><sub>htmltree</sub></a></td><td><sub>Generate HTML index.html files in a linux file structure.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/latestversions-scraper"><sub>latestversions-scraper</sub></a></td><td><sub>LatestVersions Scraper</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/latestversions-website"><sub>latestversions-website</sub></a></td><td><sub>LatestVersions Website</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/macos__colorpicker--app"><sub>macos__colorpicker--app</sub></a></td><td><sub>🌈 Apple MacOS Colorpicker Panel shortcut</sub></td></tr>
