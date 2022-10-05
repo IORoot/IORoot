@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/action-electron-builder"
+The current project I'm working on is: "IORoot/AdvancedPropertySearch"
 
 <table><tr><td valign="top" width="33%">
 
@@ -67,6 +67,7 @@ Day-to-day technologies & services tend to be:
 
 ## My Repository List
 <table id="repos>" ><tr><td><a href="https://github.com/IORoot/APS_wiki"><sub>APS_wiki</sub></a></td><td><sub>The wiki site for the APS project. Built on Docusaurus. </sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/AdvancedPropertySearch"><sub>AdvancedPropertySearch</sub></a></td><td><sub>Public Repository for compiling the releases from the private repository.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/IORoot"><sub>IORoot</sub></a></td><td><sub>My Github profile with a github action that automatically creates a list of my repos.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/IORoot-Website"><sub>IORoot-Website</sub></a></td><td><sub>Gatsby Website for IORoot.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/Obsidian-Monokai"><sub>Obsidian-Monokai</sub></a></td><td><sub>A (very) clean and minimal Monokai code-colours based Obsidian theme.</sub></td></tr>
