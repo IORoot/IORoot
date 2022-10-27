@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/APS_wiki"
+The current project I'm working on is: "IORoot/AdvancedPropertySearch"
 
 <table><tr><td valign="top" width="33%">
 
