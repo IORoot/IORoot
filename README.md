@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/HouseQuests"
+The current project I'm working on is: "IORoot/social_automator"
 
 <table><tr><td valign="top" width="33%">
 
@@ -97,6 +97,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scripts__tools"><sub>scripts__tools</sub></a></td><td><sub>Library of BASH and CLI scripts</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/social_automator"><sub>social_automator</sub></a></td><td><sub>Social Media Automation</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/spinnaker"><sub>spinnaker</sub></a></td><td><sub>BASH Framework builder inspired by Tailwind</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/tailwind__variant--on"><sub>tailwind__variant--on</sub></a></td><td><sub>🌬 A tailwind variant that allows you to select every X children of Y children.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
