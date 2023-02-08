@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/youtube-poster"
+The current project I'm working on is: "IORoot/ffmpeg__bash-scripts"
 
 <table><tr><td valign="top" width="33%">
 
@@ -77,6 +77,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/blog"><sub>blog</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/docker__puppeteer--facebook"><sub>docker__puppeteer--facebook</sub></a></td><td><sub>A container that runs puppeteer to login into facebook creator studio and schedule a video post to Instagram and Facebook.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/examples__google-my-business"><sub>examples__google-my-business</sub></a></td><td><sub>Example PHP scripts for Google My Business API v4.9</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/ffmpeg__bash-scripts"><sub>ffmpeg__bash-scripts</sub></a></td><td><sub>FFMPEG Utility scripts and video templates</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__cron-lighthouse"><sub>github-action__cron-lighthouse</sub></a></td><td><sub>Runs Lighthouse against URLs - Saves to server.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--londonparkour"><sub>github-action__deploy--londonparkour</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--parkourlabs"><sub>github-action__deploy--parkourlabs</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
@@ -97,7 +98,6 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/prometheus__grok--apache2"><sub>prometheus__grok--apache2</sub></a></td><td><sub>Grok_exporter yaml config files for Apache2 access and error logs. For use with Prometheus.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scripts__tools"><sub>scripts__tools</sub></a></td><td><sub>Library of BASH and CLI scripts</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/social_automator"><sub>social_automator</sub></a></td><td><sub>Social Media Automation</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/spinnaker"><sub>spinnaker</sub></a></td><td><sub>BASH Framework builder inspired by Tailwind</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/tailwind__variant--on"><sub>tailwind__variant--on</sub></a></td><td><sub>🌬 A tailwind variant that allows you to select every X children of Y children.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
