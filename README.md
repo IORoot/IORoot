@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/ngrok-debug-via-ssh"
+The current project I'm working on is: "IORoot/AI__autoflip"
 
 <table><tr><td valign="top" width="33%">
 
