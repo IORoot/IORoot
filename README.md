@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/AI__autoflip"
+The current project I'm working on is: "IORoot/ffmpeg__bash-scripts"
 
 <table><tr><td valign="top" width="33%">
 
