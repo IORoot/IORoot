@@ -166,4 +166,5 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/wp-theme__pulse"><sub>wp-theme__pulse</sub></a></td><td><sub>ParkourPulse Theme.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-theme__syllabus-v1"><sub>wp-theme__syllabus-v1</sub></a></td><td><sub>Syllabus website theme</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/youtube-poster"><sub>youtube-poster</sub></a></td><td><sub>Github Action to post to YouTube through their API. Used to connect to Make.com</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/youtube_uploader"><sub>youtube_uploader</sub></a></td><td><sub>Allow me to publish to Youtube from Make.com via a git commit or curl request.</sub></td></tr>
 </table>
