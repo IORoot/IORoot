@@ -78,7 +78,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/blog"><sub>blog</sub></a></td><td><sub>Markdown content for gatsby</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/docker__puppeteer--facebook"><sub>docker__puppeteer--facebook</sub></a></td><td><sub>A container that runs puppeteer to login into facebook creator studio and schedule a video post to Instagram and Facebook.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/examples__google-my-business"><sub>examples__google-my-business</sub></a></td><td><sub>Example PHP scripts for Google My Business API v4.9</sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/ffmpeg__bash-scripts"><sub>ffmpeg__bash-scripts</sub></a></td><td><sub>🎞 FFMPEG Utility scripts and video templates to make life simpler. 💡</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/ffmpeg__bash-scripts"><sub>ffmpeg__bash-scripts</sub></a></td><td><sub>🎞 FFMPEG Utility scripts and JSON scripter. 💡Run multi-stage ffmpeg workflows using a JSON config.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__cron-lighthouse"><sub>github-action__cron-lighthouse</sub></a></td><td><sub>Runs Lighthouse against URLs - Saves to server.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--londonparkour"><sub>github-action__deploy--londonparkour</sub></a></td><td><sub>LondonParkour Staging wp-content, theme, plugins.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/github-action__deploy--parkourlabs"><sub>github-action__deploy--parkourlabs</sub></a></td><td><sub>labs.londonparkour.com deployment</sub></td></tr>
