@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/londonparkour_store"
+The current project I'm working on is: "IORoot/youtube-poster"
 
 <table><tr><td valign="top" width="33%">
 
