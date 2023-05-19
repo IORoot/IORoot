@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/docker-vump"
+The current project I'm working on is: "IORoot/standalone"
 
 <table><tr><td valign="top" width="33%">
 
@@ -102,6 +102,7 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/scraper__instamancer"><sub>scraper__instamancer</sub></a></td><td><sub>Scrape Instagram's API with Puppeteer</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/scripts__tools"><sub>scripts__tools</sub></a></td><td><sub>Library of BASH and CLI scripts</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/spinnaker"><sub>spinnaker</sub></a></td><td><sub>BASH Framework builder inspired by Tailwind</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/standalone"><sub>standalone</sub></a></td><td><sub>Create a BASH standalone file by replacing 'source' commands with their file contents</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/tailwind__variant--on"><sub>tailwind__variant--on</sub></a></td><td><sub>🌬 A tailwind variant that allows you to select every X children of Y children.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs"><sub>uploads__labs</sub></a></td><td><sub>The image uploads folder for labs.londonparkour.com</sub></td></tr>
