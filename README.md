@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/webcomponent-ldnpk-infobox"
+The current project I'm working on is: "IORoot/webcomponent-ldnpk-blocksubtitle"
 
 <table><tr><td valign="top" width="33%">
 
@@ -107,6 +107,8 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/typora__notion-theme"><sub>typora__notion-theme</sub></a></td><td><sub>My customisations for Typora to look a little more like Notion.so </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__labs"><sub>uploads__labs</sub></a></td><td><sub>The image uploads folder for labs.londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/uploads__londonparkour"><sub>uploads__londonparkour</sub></a></td><td><sub>All the londonparkour.com image uploads so we can use CI</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-blocksubtitle"><sub>webcomponent-ldnpk-blocksubtitle</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour SubTitle.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-blocktitle"><sub>webcomponent-ldnpk-blocktitle</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour blockTitle</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-button"><sub>webcomponent-ldnpk-button</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour button.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-infobox"><sub>webcomponent-ldnpk-infobox</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour Info-box. </sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--isometric"><sub>wp-plugin__REST--isometric</sub></a></td><td><sub>Generic REST request with a view output of images in an isometic format.</sub></td></tr>
