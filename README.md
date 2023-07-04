@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/webcomponent-ldnpk-navbar"
+The current project I'm working on is: "IORoot/Obsidian-Monokai"
 
 <table><tr><td valign="top" width="33%">
 
