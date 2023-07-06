@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/webcomponent-ldnpk-menucard"
+The current project I'm working on is: "IORoot/webcomponent-ldnpk-navigation"
 
 <table><tr><td valign="top" width="33%">
 
@@ -111,8 +111,10 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-blocktitle"><sub>webcomponent-ldnpk-blocktitle</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour blockTitle</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-button"><sub>webcomponent-ldnpk-button</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour button.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-infobox"><sub>webcomponent-ldnpk-infobox</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour Info-box. </sub></td></tr>
-<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menucard"><sub>webcomponent-ldnpk-menucard</sub></a></td><td><sub>A card-element for a mega-menu</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menuclasscard"><sub>webcomponent-ldnpk-menuclasscard</sub></a></td><td><sub>A card-element for a mega-menu</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menunewscard"><sub>webcomponent-ldnpk-menunewscard</sub></a></td><td><sub>A webcomponent variation of a simple card for the news on the menu of the londonparkour.com website.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-navbar"><sub>webcomponent-ldnpk-navbar</sub></a></td><td><sub>The mega-menu navigation bar webcomponents. <ldnpk-navbar> and <ldnpk-navitem></sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-navigation"><sub>webcomponent-ldnpk-navigation</sub></a></td><td><sub>The mainmenu webcomponent for the LondonParkour.com website.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-webstorecard"><sub>webcomponent-ldnpk-webstorecard</sub></a></td><td><sub>Store-specific card element for mega menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--isometric"><sub>wp-plugin__REST--isometric</sub></a></td><td><sub>Generic REST request with a view output of images in an isometic format.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/wp-plugin__REST--labs"><sub>wp-plugin__REST--labs</sub></a></td><td><sub>REST Interface to Labs.londonparkour.com</sub></td></tr>
