@@ -9,7 +9,7 @@
 # Howdy! 👋
 
 ## Activity
-The current project I'm working on is: "IORoot/webcomponent-ldnpk-button"
+The current project I'm working on is: "IORoot/webcomponent-ldnpk-menunewsvideo"
 
 <table><tr><td valign="top" width="33%">
 
@@ -111,8 +111,11 @@ Day-to-day technologies & services tend to be:
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-blocktitle"><sub>webcomponent-ldnpk-blocktitle</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour blockTitle</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-button"><sub>webcomponent-ldnpk-button</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour button.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-infobox"><sub>webcomponent-ldnpk-infobox</sub></a></td><td><sub>Custom vanilla WebComponent for the LondonParkour Info-box. </sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-link"><sub>webcomponent-ldnpk-link</sub></a></td><td><sub>Simple link webcomponent for the londonparkour.com website</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-linkicon"><sub>webcomponent-ldnpk-linkicon</sub></a></td><td><sub>A link with an icon webcomponent for londonparkour.com</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menuclasscard"><sub>webcomponent-ldnpk-menuclasscard</sub></a></td><td><sub>A card-element for a mega-menu</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menunewscard"><sub>webcomponent-ldnpk-menunewscard</sub></a></td><td><sub>A webcomponent variation of a simple card for the news on the menu of the londonparkour.com website.</sub></td></tr>
+<tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-menunewsvideo"><sub>webcomponent-ldnpk-menunewsvideo</sub></a></td><td><sub>A menu item link that looks like a playable video for the londonparkour.com website</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-navbar"><sub>webcomponent-ldnpk-navbar</sub></a></td><td><sub>The mega-menu navigation bar webcomponents. <ldnpk-navbar> and <ldnpk-navitem></sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-navigation"><sub>webcomponent-ldnpk-navigation</sub></a></td><td><sub>The mainmenu webcomponent for the LondonParkour.com website.</sub></td></tr>
 <tr><td><a href="https://github.com/IORoot/webcomponent-ldnpk-webstorecard"><sub>webcomponent-ldnpk-webstorecard</sub></a></td><td><sub>Store-specific card element for mega menu</sub></td></tr>
